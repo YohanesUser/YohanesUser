@@ -7,30 +7,37 @@
 - 🔍 I’m self-learning programming languages like **HTML**, **JavaScript**, **JSON**, **PHP**, **CSS** with the help of ChatGPT.
 - 🛠️ I develop websites for learning purposes and games, such as exam simulations and "Cek Khodam."
 
+<br  />
+
 ## Home Address:
 - [**Jl. Proklamasi, Sumbermulyo, Bambanglipuro, Bantul, DIY, Indonesia**](https://www.google.com/maps?q=Jl.+Proklamasi,+Sumbermulyo,+Bambanglipuro,+Bantul,+DIY,+Indonesia)
+
+<br  />
 
 ## Gmail account:
 - **yoannormal08367@gmail.com** or **ynafsr78@gmail.com**
 
+<br  />
+
 ## Projects:
-#### 1. [CBT Offline](https://ujiancbt.vercel.app)
+### 1. [CBT Offline](https://ujiancbt.vercel.app)
   - **Exam Simulation Websites**: Developed web-based platforms to simulate exams for practice.
-   ![HTML Logo](https://github.com/YohanesUser/galeri/blob/main/Screenshot%202024-12-23%20233034.png?raw=true)
-  - This CBT can help to learn in answering questions (multiple choice)
+  - This CBT can help to learn in answering questions (multiple choice).
   - Username and password can be asked via email/searched for yourself in the inspect section.
+   [![HTML Logo](https://github.com/YohanesUser/galeri/blob/main/Screenshot%202024-12-23%20233034.png?raw=true)](https://ujiancbt.vercel.app/question1.html?page=2)
 
-#### 2. [Cek Khodam](https://cekkhodammuu.vercel.app)  
-  - **Cek Khodam Website**: Sorry it's still not accessible now because I'm still redeveloping it
+<br  />
 
+### 2. [Cek Khodam](https://cekkhodammuu.vercel.app)
+  - **Cek Khodam Website**: Sorry it's still not accessible now because I'm still redeveloping it.
+
+    <br  />
     
 ## Tools:
-
-[<img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="JavaScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="CSS" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="Lightroom" width="30px" src="https://cdn-icons-png.flaticon.com/128/5968/5968510.png" style="padding-right:10px;" />](#)
+- [<img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />](#) **HTML**
+- [<img align="left" alt="JavaScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />](#) **JavaScript**
+- [<img align="left" alt="CSS" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />](#) **CSS**
+- [<img align="left" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />](#) **PHP**
 
 <br />
 <br />
