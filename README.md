@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=F7F7F7&center=true&random=true&width=800&height=130&lines=Hi+there%2C+I'm+Yohanes+A+S+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=FF0000&center=true&random=true&width=800&height=130&lines=Hi+there%2C+I'm+Yohanes+A+S+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG">
   </a>
 </p>
+
 
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRjb2QxbmIyOTh1YzNlODNsMnZrb2t0MXlxeDkzYWxlZHNybGliNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
