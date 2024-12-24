@@ -1,14 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=F7F7F7&center=true&random=true&width=400&height=65&lines=Hi+there%2C+I'm+Yohanes+A+S+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=F7F7F7&center=true&random=true&width=800&height=130&lines=Hi+there%2C+I'm+Yohanes+A+S+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG">
   </a>
 </p>
 
-
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
-  <img         
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRjb2QxbmIyOTh1YzNlODNsMnZrb2t0MXlxeDkzYWxlZHNybGliNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRjb2QxbmIyOTh1YzNlODNsMnZrb2t0MXlxeDkzYWxlZHNybGliNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
+
 
 ## About Me:
 - 🌱 I’m currently a student at **Catholic junior high school in Bambanglipuro**.
@@ -58,7 +57,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRjb2QxbmIyOTh1YzNlODNsM
 [<img align="left" alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" style="padding-right:10px;" />](https://www.instagram.com/yohanes_af_sr/?__pwa=1)
 [<img align="left" alt="TikTok" width="30px" src="https://cdn-icons-png.flaticon.com/512/3046/3046124.png" style="padding-right:10px;" />](https://www.tiktok.com/@ynafsr08367)
 [<img align="left" alt="Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:10px;" />](https://www.facebook.com/profile.php?id=100088714771697)
-[<img align="left" alt="X" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="padding-right:10px;" />](https://www.threads.net/@yohanes_af_sr)
+[<img align="left" alt="X" width="30px" src="https://cdn-icons-png.flaticon.com/128/12105/12105336.png" style="padding-right:10px;" />](https://www.threads.net/@yohanes_af_sr)
 
 <br />
 <br />
