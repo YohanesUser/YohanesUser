@@ -15,7 +15,6 @@
 - 🎓 I graduated from **Catholic elementary school in Bambanglipuro**.
 - 💻 I became interested in coding in my first year of junior high school.
 - 🔍 I’m self-learning programming languages like **HTML**, **JavaScript**, **JSON**, **PHP**, **CSS** with the help of ChatGPT.
-- 🛠️ I develop websites for learning purposes and games, such as exam simulations and "Cek Khodam."
 
 <br  />
 
