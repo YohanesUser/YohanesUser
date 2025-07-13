@@ -29,11 +29,11 @@
 <br  />
 
 ## Projects:
-### 1. [CBT Offline](https://ujiancbt.vercel.app)
+### 1. [CBT Offline]([https://ujiancbt.vercel.app](https://tikuscbt.vercel.app/question.html?page=1))
   - **Exam Simulation Websites**: Developed web-based platforms to simulate exams for practice.
   - This CBT can help to learn in answering questions (multiple choice).
   - Username and password can be asked via email/searched for yourself in the inspect section.
-   [![HTML Logo](https://github.com/YohanesUser/galeri/blob/main/Screenshot%202024-12-23%20233034.png?raw=true)](https://ujiancbt.vercel.app/question1.html?page=2)
+   [![HTML Logo](https://github.com/YohanesUser/galeri/blob/main/Screenshot%202024-12-23%20233034.png?raw=true)]([https://ujiancbt.vercel.app/question1.html?page=2](https://tikuscbt.vercel.app/question.html?page=1))
 
 <br  />
 
