@@ -18,6 +18,9 @@
 
 <br  />
 
+![View Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YohanesUser/profile)
+<
+
 ## Home Address:
 - [**Jl. Proklamasi, Sumbermulyo, Bambanglipuro, Bantul, DIY, Indonesia**](https://www.google.com/maps?q=Jl.+Proklamasi,+Sumbermulyo,+Bambanglipuro,+Bantul,+DIY,+Indonesia)
 
