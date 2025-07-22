@@ -18,7 +18,8 @@
 
 <br/>
 
-![View Count](https://count.getloli.com/get/@YohanesUser?theme=rule34)
+![View Count](https://count.getloli.com/get/@YohanesUser?theme=nixietube-1)
+
 
 ---
 
