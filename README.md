@@ -58,6 +58,8 @@
 [<img align="left" alt="TikTok" width="30px" src="https://cdn-icons-png.flaticon.com/512/3046/3046124.png" style="padding-right:10px;" />](https://www.tiktok.com/@ynafsr08367)
 [<img align="left" alt="Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:10px;" />](https://www.facebook.com/profile.php?id=100088714771697)
 [<img align="left" alt="X" width="30px" src="https://cdn-icons-png.flaticon.com/128/12105/12105336.png" style="padding-right:10px;" />](https://www.threads.net/@yohanes_af_sr)
+[<img align="left" alt="YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" style="padding-right:10px;" />](https://www.youtube.com/@yhns01)
+
 
 <br />
 <br />
