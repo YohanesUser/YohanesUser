@@ -10,10 +10,7 @@
 
 ---
 
-## 👤 About Me:
-- 🌱 I’m currently a student at **Catholic junior high school in Bambanglipuro**.
-- 🎓 I graduated from **Catholic elementary school in Bambanglipuro**.
-- 💻 I became interested in coding in my first year of junior high school.
+## 👤 About Me
 - 🔍 I’m self-learning programming languages like **HTML**, **JavaScript**, **JSON**, **PHP**, **CSS** with the help of ChatGPT.
 
 <br/>
